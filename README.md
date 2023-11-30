@@ -26,6 +26,10 @@ Feel free to explore and reach out if you have any questions or feedback.
 - Provides valuable insight for rice farmers and agriculture planners.
 - [Rice Flood Forecasting with Gompertz Model](https://gitlab.com/irisat_senegal/rice_flood_forecasting_using_gompertz_model)
 
+# Who I am
+Glorie M. WOWO ; [My Linkedin link](https://cm.linkedin.com/in/glorie-metsa-wowo-97642211b)
+
+
 Feel free to explore each project's repository for more details, code, and documentation. If you have any questions or would like to collaborate, don't hesitate to reach out!
 
 Happy coding! 🚀

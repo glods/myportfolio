@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hello there! 👋 Welcome to my GitHub portfolio. This portfolio showcases a collection of projects that demonstrate my expertise in various data science and remote sensing domains. These projects highlight my ability to apply machine learning techniques, data analysis, and remote sensing tools to solve real-world problems.
+Hello there! 👋 Welcome to my GitHub portfolio. This portfolio showcases a collection of projects that demonstrate my expertise in various data science and remote sensing domains. These projects highlight my ability to apply *machine learning techniques, data analysis, and remote sensing tools* to solve real-world problems.
 Feel free to explore and reach out if you have any questions or feedback.
 ## Projects
 

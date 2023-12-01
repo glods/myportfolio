@@ -7,18 +7,18 @@ Feel free to explore and reach out if you have any questions or feedback.
 ### 1- Churn Prediction for Insurance Policies
 - **Objective:** Predict whether an insurance policy will be interrupted or not.
 - This project focuses on predicting whether a customer will cancel their subscription.
-- **Link to repository : ** [Churn Prediction Project](https://github.com/glods/churn_prediction)
+- **Link to repository :** [Churn Prediction Project](https://github.com/glods/churn_prediction)
 
 ### 2- Download Sentinel-2 Images on Google Earth Engine (GEE)
 - **Objective:** Download various Sentinel-2 images on Google Earth Engine.
 - This repository contains Python code to download images such as RGB, MNDWI, NDWI, S2cloudless layer, and cloud masks for RGB and MNDWI.
-- **Link to repository : ** [Sentinel-2 Image Download on GEE](https://github.com/glods/download_sentinel2_images_on_GEE)
+- **Link to repository :** [Sentinel-2 Image Download on GEE](https://github.com/glods/download_sentinel2_images_on_GEE)
 
 ### 3 - Automated Flood Mapping System using Remote Sensing Data
 - **Objective:** Detect and map areas likely to be flooded in rice growing fields.
 - Utilizes Google Earth Engine API to download Sentinel-2 imagery and generate flood maps.
 - Provides insights into the spatial and temporal distribution of flooding.
--**Link to repository : ** [Automated Flood Mapping System](https://gitlab.com/irisat_senegal/automated_flood_mapping_system)
+-**Link to repository :** [Automated Flood Mapping System](https://gitlab.com/irisat_senegal/automated_flood_mapping_system)
 
 ### 4 - Rice Flood Forecasting using Gompertz Model
 - **Objective:** Predict dates and areas of future flooding using the Gompertz Model.
@@ -39,7 +39,7 @@ With the same sample dataset,
 - **Version 3**: Highest processing time (e.g.,> 1  h).
 - **Version 2**: Moderate processing time (e.g., 36 seconds).
 - **Version 1**: Fastest processing time (eg. 7s ).
-- **Link to repository : ** [Geo Transformations ](https://github.com/glods/geospatial_data_transformation)
+- **Link to repository :** [Geo Transformations ](https://github.com/glods/geospatial_data_transformation)
 
 # Who I am
 Glorie M. WOWO ; [My Linkedin link](https://cm.linkedin.com/in/glorie-metsa-wowo-97642211b)

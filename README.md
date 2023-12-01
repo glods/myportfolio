@@ -29,16 +29,14 @@ Feel free to explore and reach out if you have any questions or feedback.
 ### 5 - Geo Transformations 
 
 -  **Overview :** This repository showcases a geospatial data transformation using various techniques and libraries. It includes three versions of a geo-transform script (`geo_transform_v1.py`, `geo_transform_v2.py`, and `geo_transform_v3.py`), each demonstrating a different approach to efficiently convert location data in a CSV file into a GeoDataFrame with additional location and geometry information.
-- **Key Features: ** 
-
+- **Key Features:** 
   - **Version 1**: Utilizes traditional pandas and geopandas for geospatial transformations.
   - **Version 2**: Implements a map-reduce paradigm to parallelize the processing of location data.
   - **Version 3**: Leverages Dask for distributed computing to handle large datasets efficiently.
-- **Performance Comparison**
-With the same sample dataset, 
-- **Version 3**: Highest processing time (e.g.,> 1  h).
-- **Version 2**: Moderate processing time (e.g., 36 seconds).
-- **Version 1**: Fastest processing time (eg. 7s ).
+- **Performance Comparison:** With the same sample of data, 
+  - **Version 3**: Highest processing time (e.g.,> 1  h).
+  - **Version 2**: Moderate processing time (e.g., 36 seconds).
+  - **Version 1**: Fastest processing time (eg. 7s ).
 - **Link to repository :** [Geo Transformations ](https://github.com/glods/geospatial_data_transformation)
 
 # Who I am

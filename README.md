@@ -34,8 +34,8 @@ Feel free to explore and reach out if you have any questions or feedback.
   - **Version 2**: Implements a map-reduce paradigm to parallelize the processing of location data.
   - **Version 3**: Leverages Dask for distributed computing to handle large datasets efficiently.
 - **Performance Comparison:** With the same sample of data, 
-  - **Version 3**: Highest processing time (e.g.,> 1  h).
-  - **Version 2**: Moderate processing time (e.g., 36 seconds).
+  - **Version 3**: Highest processing time (e.g.> 1  h).
+  - **Version 2**: Moderate processing time (e.g. 36 seconds).
   - **Version 1**: Fastest processing time (eg. 7s ).
 - **Link to repository :** [Geo Transformations ](https://github.com/glods/geospatial_data_transformation)
 

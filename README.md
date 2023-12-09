@@ -18,13 +18,13 @@ Feel free to explore and reach out if you have any questions or feedback.
 - **Objective:** Detect and map areas likely to be flooded in rice growing fields.
 - Utilizes Google Earth Engine API to download Sentinel-2 imagery and generate flood maps.
 - Provides insights into the spatial and temporal distribution of flooding.
--**Link to repository :** [Automated Flood Mapping System](https://gitlab.com/irisat_senegal/automated_flood_mapping_system)
+- **Link to repository :** [Automated Flood Mapping System](https://gitlab.com/irisat_senegal/automated_flood_mapping_system)
 
 ### 4 - Rice Flood Forecasting using Gompertz Model
 - **Objective:** Predict dates and areas of future flooding using the Gompertz Model.
 - The model is trained on historical flooding data from rice crops.
 - Provides valuable insight for rice farmers and agriculture planners.
-- [Rice Flood Forecasting with Gompertz Model](https://gitlab.com/irisat_senegal/rice_flood_forecasting_using_gompertz_model)
+- **Link to repository :** [Rice Flood Forecasting with Gompertz Model](https://gitlab.com/irisat_senegal/rice_flood_forecasting_using_gompertz_model)
 
 ### 5 - Geo Transformations 
 

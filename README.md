@@ -67,9 +67,9 @@ Feel free to explore and reach out if you have any questions or feedback.
   - **Version 2:** Map-reduce paradigm for parallelization.  
   - **Version 3:** Dask for distributed computing with large datasets.  
 - **Performance:**  
-  - V3: Highest processing time  >1h  
+  - V1: Highest processing time  >1h  
   - V2: Moderate processing time ~36s  
-  - V1: Fastest processing time ~7s  
+  - V3: Fastest processing time ~7s  
 - **Link to repository:** [Geo Transformations](https://github.com/glods/geospatial_data_transformation)  
 
 # Who I am
